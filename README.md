@@ -29,4 +29,4 @@ Quiero agradecer a mis estimados profesores, Christian Velasco, Álvaro Hernando
 
 Sus conocimientos y enseñanzas han sido una inspiración constante. Gracias por invertir tiempo y esfuerzo en mi formación.
 
-Estoy agradecido por su invaluable contribución a mi educación y crecimiento. #aluralatam #aluraChallengeRobotTrading
+Estoy agradecido por su invaluable contribución a mi educación y crecimiento. **#aluralatam** **#aluraChallengeRobotTrading**
