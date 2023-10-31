@@ -1,7 +1,7 @@
 # RobotTrading_Python
 **Descripción del Proyecto:**
 
-El proyecto "Automatización de Monitoreo y Toma de Decisiones en el Mercado de Bitcoin" es una solución diseñada para automatizar el proceso de seguimiento del mercado de criptomonedas, con un enfoque específico en Bitcoin. El proyecto integra diversas funcionalidades que permiten la recopilación de datos históricos, el análisis de tendencias en tiempo real y la toma de decisiones basadas en datos confiables.
+El proyecto  es una solución diseñada para automatizar el proceso de seguimiento del mercado de criptomonedas, con un enfoque específico en Bitcoin. El proyecto integra diversas funcionalidades que permiten la recopilación de datos históricos, el análisis de tendencias en tiempo real y la toma de decisiones basadas en datos confiables.
 
 **Componentes Clave del Proyecto:**
 
